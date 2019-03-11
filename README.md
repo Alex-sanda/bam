@@ -2,7 +2,7 @@
 Implementation of papper From Topic to Seqence :  Hierarchical Attention Model For Short Text Classification
 
 Model Structure:
-![image](http://github.com/Alex-sanda/ts_ham/images/model_structure.jpg)
+![image](http://github.com/Alex-sanda/ts_ham/raw/master/images/model_structure.jpg)
 
 Quick Start:
   python main.py
