@@ -1,5 +1,5 @@
 # ts_ham
-Implementation of papper From Topic to Seqence :  Hierarchical Attention Model For Short Text Classification
+Implementation of papper From Topic to Seqence :  Hierarchical Attention Model For Short Text Sentiment Classification
 
 Model Structure:
 ![image](https://github.com/Alex-sanda/ts_ham/blob/master/images/model_structure.jpg)
