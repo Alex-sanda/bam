@@ -6,7 +6,9 @@ Model Structure:
 
 Quick Start:
   pull the short text dataset into ./dataset/
-  python main.py
+  <store in the form of ./dataset/pos.txt(neg.txt) is recomanded>
+  
+  run <python main.py> in the working directory
  
  Implementation detial:
  --python 3.6.3
