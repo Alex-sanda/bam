@@ -5,12 +5,17 @@ Model Structure:
 ![image](https://github.com/Alex-sanda/ts_ham/blob/master/images/model_structure.jpg)
 
 Quick Start:
-  pull the short text dataset into ./dataset/
-  <store in the form of ./dataset/pos.txt(neg.txt) is recomanded>
+
+  -pull the short text dataset into ./dataset/
   
-  run <python main.py> in the working directory
+         <store in the form of ./dataset/pos.txt(neg.txt) is recomanded>
+  
+  -python main.py 
  
  Implementation detial:
+ 
  --python 3.6.3
+ 
  --tensorflow 1.5.0
+ 
  --keras 2.0
