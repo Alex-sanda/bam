@@ -5,6 +5,7 @@ Model Structure:
 ![image](https://github.com/Alex-sanda/ts_ham/blob/master/images/model_structure.jpg)
 
 Quick Start:
+  pull the short text dataset into ./dataset/
   python main.py
  
  Implementation detial:
