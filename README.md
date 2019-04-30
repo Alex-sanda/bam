@@ -28,4 +28,8 @@ Quick Start:
     
     1.The size of NLPCC-ECGC dataset is rather big, so it is not provided it here. But you can download the dataset from :
     
+            http://coai.cs.tsinghua.edu.cn/hml/challenge2017/
+    
     2.The size of word2vec data matrix file is also big, we provide it here:
+            
+            link: https://pan.baidu.com/s/1aeTPSU58v5R8UonQPzFb-A   code: 55kp 
